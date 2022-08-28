@@ -34,7 +34,7 @@ First, install [git](https://git-scm.com/downloads) on your computer.
 
 1. Open VSCode, and click 'Clone Repository' button below the 'Open Folder' button.
 2. A command palette (text input box at the upper center) will appear. Copy and paste this repository URL.
-```https://github.com/doyle34/pythontutorial.git```
+```https://github.com/doyle34/python_tutorial_2022.git```
 
 3. Choose a folder as a workspace in your computer. This folder will be initialized to be your local git repository.
 
@@ -42,7 +42,7 @@ First, install [git](https://git-scm.com/downloads) on your computer.
 
 1. Open [Google Colab](https://colab.research.google.com)
 2. Choose 'GitHub' and search this repository
-```https://github.com/doyle34/pythontutorial.git```
+```https://github.com/doyle34/python_tutorial_2022.git```
 
 3. Open any .ipynb file you want
 
@@ -54,7 +54,7 @@ For Windows:
 2. Type 'cmd' in file explorer address bar. This will open command prompt at your folder.
 3. Type or paste below command.
 
-    ```git clone https://github.com/doyle34/pythontutorial.git```
+    ```git clone https://github.com/doyle34/python_tutorial_2022.git```
 
 For macOS:
 
@@ -63,4 +63,4 @@ For macOS:
 3. Type 'cd' and a space, and drag & drop the folder in Terminal window. This will copy & paste your folder path. Push enter button.
 4. Type or paste below command.
 
-    ```git clone https://github.com/doyle34/pythontutorial.git```
+    ```git clone https://github.com/doyle34/python_tutorial_2022.git```
